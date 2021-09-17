@@ -10,7 +10,7 @@ import Foundation
 
 struct Constant {
     
-    static var API_KEY = "963179c354334cc3a9ff597232b2c1f6"
+    static var API_KEY = "Change Here" // Change the key to your own
     static var ENDPOINT = "headlines"
     static var API_URL = "http://newsapi.org/v2/top-\(Constant.ENDPOINT)?country=eg&apiKey=\(Constant.API_KEY)"
     
